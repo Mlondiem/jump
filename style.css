@@ -26,14 +26,14 @@ p {
 
 ::-webkit-scrollbar-thumb {
   background: #FF0000;
-
+}
 
 ::-webkit-scrollbar-thumb:hover {
   background: #990F02;
 }
    
 #gamezone {
-  background-color: blue;
+  background-color: navy;
   width: 800px;
   height:400px;
   border: 2px solid blue;
