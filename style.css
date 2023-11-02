@@ -26,7 +26,6 @@ p {
 
 ::-webkit-scrollbar-thumb {
   background: #FF0000;
-
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -34,9 +33,12 @@ p {
 }
    
 #gamezone {
-  background-color: #122;
+  background-color: navy;
   width: 800px;
   height:400px;
   border: 2px solid blue;
-  margin: auto;
+  margin: 20px;
+  
 }
+
+
